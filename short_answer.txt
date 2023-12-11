@@ -1,0 +1,71 @@
+1) What does the `rm` command in the terminal do?
+
+Your answer: remove file(s)
+
+
+------------------
+2) What terminal command would you use to list all the files and folder in the 
+   current directory?
+
+Your answer: ls command
+
+
+------------------
+3) Explain the difference between these two commands in the terminal:
+   
+   $ cd Users
+   $ cd /Users
+
+Your answer: cd /Users starts looking at top of filesystem and is absolute path. cd Users is relative path and starts looking in current directory.
+
+
+------------------
+4) Describe what git is and what it is used for.
+
+Your answer: Git is the most popular open source version control program which runs on Linux, OSX and Windows. It is used for source code versioning and it is easy to go back to a previously working version if you break something. 
+
+
+------------------
+5) Describe what GitHub is and what it is used for.
+
+Your answer: GitHub is a website that allows you to store your local repository in the cloud. It is used for hosting and sharing code repositories and can be used for team collaboration.
+
+
+------------------
+6) Which of these commands sets up a new git repository?
+    a) git clone 
+    b) git pull
+    c) git init
+    d) git status
+
+Your answer: c) git init
+
+------------------
+7) You want to check that you have properly added all the files you want to be
+   tracked in git BEFORE you make a commit. Which command will do this?
+     a) git push
+     b) git commit
+     c) git status
+     d) git remote
+
+Your answer: c) git status
+
+
+------------------
+8) What is the difference between `git add` and `git commit`?
+
+Your answer: 'git add' tells git to track it. 'git commit' commit our change. 'git add' is used to stage changes and prepres for a commit. 'git commit' records the staged changes into the version history of the repo.
+
+
+------------------
+9) What does the `git push` command do?
+
+Your answer: 'git push' uploads local repo to a remote repo.
+
+
+------------------
+10) When would you use the `git clone` command?
+
+Your answer: I will use 'git clone' when I want to create a copy of a remote Git repo on my local computer.
+
+
